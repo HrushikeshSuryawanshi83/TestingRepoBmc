@@ -41,5 +41,5 @@
 
            END-PERFORM
 
-           DISPLAY "SORT DONE"
+           DISPLAY "SORT DONE Now"
            STOP RUN.
